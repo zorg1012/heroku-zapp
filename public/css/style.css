@@ -1,0 +1,23 @@
+.black {
+    background-color: #000 !important;
+  }
+.green {
+    background-color: #28a745;
+  }
+  body {
+    padding-top: 90px;
+}
+/* General sizing */
+ul.dropdown-lr {
+  width: 300px;
+  min-width: 210px;
+}
+/* mobile fix */
+@media (max-width: 768px) {
+	.dropdown-lr h3 {
+		color: #eee;
+	}
+	.dropdown-lr label {
+		color: #eee;
+	}
+}

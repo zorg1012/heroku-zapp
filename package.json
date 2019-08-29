@@ -1,0 +1,29 @@
+{
+  "name": "zapivometer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server --ignore '**.json'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zorg1012/Zapivometer.git"
+  },
+  "author": "zorg1012",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zorg1012/Zapivometer/issues"
+  },
+  "homepage": "https://github.com/zorg1012/Zapivometer#readme",
+  "dependencies": {
+    "express-session": "^1.16.2",
+    "got": "^9.6.0",
+    "json-server": "^0.15.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "nodemon": "^1.19.1"
+  }
+}
