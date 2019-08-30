@@ -8,7 +8,7 @@ const middlewares = jsonServer.defaults();
 
 const crypto = require('./helpers/crypto');
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 app.use(middlewares);
 
 app.use(session({
