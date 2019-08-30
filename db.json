@@ -1,12 +1,54 @@
 {
   "users": [
     {
-     
+      "email": "qwe@qwe",
+      "username": "qwe",
+      "password": "AAAAEAANUVdAnxVmKUWg2y39x+N3LHLirn5acAn+9QQFZ0GMUR77BQv7XL6DK79QJ99ZypqT3XI=",
+      "id": 1
+    },
+    {
+      "email": "1",
+      "username": "qwer",
+      "password": "AAAAEAANUVeZnFc9rtLKiJXWrMsM7YYoZVWC+/xgGuRd7M6HAMvJ+CsvB870i9bty9PxWljj5c4=",
+      "id": 2
+    },
+    {
+      "email": "test11",
+      "username": "test",
+      "password": "AAAAEAANUVeO8lbCt2MIdNoXVR/FhNQfzRGGTdcuX4CE3wN3AIBQBud22hXqFWwQlB3Wlkn4j8Y=",
+      "id": 3
     }
   ],
   "saves": [
     {
-     
+      "amount": "1",
+      "time": "2",
+      "buhl": "4",
+      "alc": "4",
+      "waterNeeded": 0,
+      "temp": "3",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "amount": "5",
+      "time": "7",
+      "buhl": "1",
+      "alc": "30",
+      "waterNeeded": 10,
+      "temp": "25",
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "amount": "5",
+      "time": "7",
+      "buhl": "1",
+      "alc": "30",
+      "waterNeeded": 7,
+      "temp": "25",
+      "userId": 3,
+      "id": 8
     }
   ]
 }
