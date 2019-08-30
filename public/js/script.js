@@ -226,7 +226,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       // if (alc < 15) {
       //   alcoef = 0;
       // }
-      const waterNeeded = Math.round(
+      let waterNeeded = Math.round(
         (2 * (140 * amount * time * tempcoef * sportcoef + alcoef)) / 1000,
       )
         / 2;
