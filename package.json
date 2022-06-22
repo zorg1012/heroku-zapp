@@ -18,7 +18,7 @@
   "homepage": "https://github.com/zorg1012/Zapivometer#readme",
   "dependencies": {
     "express-session": "^1.16.2",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "json-server": "^0.15.0"
   },
   "devDependencies": {
